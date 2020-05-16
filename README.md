@@ -17,7 +17,7 @@ nodebrew -v
 
 mkdir -p ~/.nodebrew/src
 nodebrew install stable
-nodebrew use use stable
+nodebrew use stable
 
 echo 'export PATH=$PATH:$HOME/.nodebrew/current/bin' >> ~/.bash_profile
 source ~/.bashrc
