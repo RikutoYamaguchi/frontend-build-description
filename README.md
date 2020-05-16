@@ -200,6 +200,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### idea
+
+.idea/
+
 ```
 
 ## スタイルのコンパイラー
